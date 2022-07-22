@@ -16,7 +16,7 @@
      
 ---
 <h2 align="left">Languages</h2>
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grooto&layout=compact&theme=dark" />
     <p/>
 
